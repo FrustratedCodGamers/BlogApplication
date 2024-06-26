@@ -1,0 +1,25 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: content-box;
+}
+
+.editor{
+  width: 40vw;
+  margin: 10px;
+}
+.footer{
+background-color: rgba(0, 0, 0, 0.05)
+}
+
+.add-blog{
+  display: none
+}
+
+.navbar{
+  color: aliceblue;
+}
+
+.btn{
+  margin: 3px;
+}
