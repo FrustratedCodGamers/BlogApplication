@@ -15,3 +15,6 @@ Material-UI (MUI): A popular React UI framework for styling.
 Redux: A predictable state container for JavaScript apps.
 Rich Text Editor: Integrated for blog post creation and editing.
 Bootstrap: Used for some additional styling.
+
+
+Name: Raparthi Srikar
