@@ -10,6 +10,10 @@ body {
 
 .container {
   padding: 20px;
+  background-image: url("https://wallpaperaccess.com/full/424849.jpg"); 
+  background-size: cover;
+  height: 100vh;
+  
 }
 
 .navbar {
@@ -111,10 +115,12 @@ input:checked + .slider:before {
 
 /* Footer Styling */
 footer {
-  margin-top: 20px;
-  padding: 20px 0;
+  
   background-color: rgba(0, 0, 0, 0.05);
   text-align: center;
+  position: absolute;
+  bottom: 0;
+  width: 85%;
 }
 
 footer .text-body {
